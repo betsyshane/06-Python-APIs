@@ -1,0 +1,8 @@
+Analysis
+
+The weather generally becomes warmer as one approaches the equator (0 Deg. Latitude). There appear to be some outliers in the southern hemisphere (further from the equator but with high temperatures) that may have something to do with the tilt of the earth and the fact that they are heading into their "summer."
+
+The relationship between latitude and humidity is fairly weak, although it is worth noting that directly on and near the equator, there appears to be a trend toward more humidity than further away -- there are no 0% humidity locations below 60 degrees lat.
+
+The relationship between latitude and cloudiness is also weak, but there is trending at certain levels of cloudiness: 0%, 75% and 90%.  Additionally, the clusters for 75% and 90% seem to be concentrated primarily from 30 to 65 degrees; this may be a storm system or the tail end of hurricane season in the northern hemisphere.
+
